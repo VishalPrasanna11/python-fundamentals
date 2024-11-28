@@ -89,7 +89,3 @@ The `12-Object-Oriented` folder includes a simple SQLite database (`courses.db`)
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to modify the sections or add more details specific to your project. Let me know if you'd like me to generate a more detailed or customized version!
