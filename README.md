@@ -39,7 +39,7 @@ PYTHON-FUNDAMENTALS/
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/VishalPrasanna11/python-fundamentals.git
    cd PYTHON-FUNDAMENTALS
    ```
 
